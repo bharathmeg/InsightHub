@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+sqlite3-binary
+scikit-learn
+python-dotenv
